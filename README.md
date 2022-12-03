@@ -1,4 +1,3 @@
-# TITLE
 This project uses [cypress](https://www.cypress.io/) to test for a black-box testing on web application.
 Detected bugs in project can be found in [bugs](./docs/bugs.md)
 
